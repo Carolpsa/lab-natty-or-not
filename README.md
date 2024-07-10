@@ -10,4 +10,4 @@ Para geração do texto e imagens foi utilizado o ChatGPT.
 Utilizei o "ChatGPT" para criar o texto e as imagens conforme o tema fornecido por mim. Realizei a revisão e estruturação do conteúdo. Para concluir, a montagem final foi feita no Word.
 
 ## 🚀 Resultados
-Ebook
+Veja o meu [e-book](IA.pdf)!
